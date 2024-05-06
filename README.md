@@ -1,2 +1,2 @@
-# 08_CI_Implementation_titanic_dataset
-CI Implementation on titanic dataset
+# CI_Implementation_ON_DEMO_dataset
+CI Implementation on demo dataset
